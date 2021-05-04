@@ -8,7 +8,7 @@ void main() {
         backgroundColor: Colors.amber[200],
         appBar: AppBar(
           title: Text('I am Rich'),
-          backgroundColor: Colors.amber[900],
+          backgroundColor: Colors.teal[100],
         ),
         body: Center(
           child: Image(
