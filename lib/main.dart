@@ -12,8 +12,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage(
-                'https://images-na.ssl-images-amazon.com/images/I/81LyLwhZeBL.png'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
